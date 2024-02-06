@@ -67,7 +67,7 @@ input[type=search]::placeholder{
 
 #hero{
     /* background-color: blue; */
-    background-image: url(/PRACTICE/new-york-city.jpg);
+    background-image: url(new-york-city.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
